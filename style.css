@@ -1,0 +1,81 @@
+/*Gerais*/
+.hide {
+  font-size: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  background: #2c2b3d;
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+.page {
+  max-width: 1000px;
+  margin: auto;
+  padding-top: 70px;
+}
+
+.green {
+  color: #00bfa6;
+}
+
+/*Header*/
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.menu ul {
+  display: flex;
+  align-items: center;
+  gap: 65px;
+  list-style: none;
+  font-family: "JetBrains Mono", monospace;
+  margin: 0;
+}
+
+.menu ul li a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.menu ul li a:hover {
+  color: #00bfa6;
+}
+
+/*Content*/
+main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 150px;
+}
+
+#hero {
+  max-width: 530px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  color: #00bfa6;
+}
+
+.separator {
+  border: 1px solid #00bfa6;
+  max-width: 560px;
+  margin: auto;
+}
+
+#decoration-lock {
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+}
