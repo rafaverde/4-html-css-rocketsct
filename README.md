@@ -5,7 +5,7 @@ Projeto desenvolvido no curso Explorer da Rocketseat, de uma página web simples
 </p>
 
 <p align="center">
-Veja o resultado [nesse link](https://rafaverde.github.io/4-html-css-rocketsct/).
+Veja o resultado <a href="https://rafaverde.github.io/4-html-css-rocketsct/" target="_blank">aqui.</a>
 </p>
 
 <p align="center">
