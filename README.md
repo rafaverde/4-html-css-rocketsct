@@ -5,6 +5,10 @@ Projeto desenvolvido no curso Explorer da Rocketseat, de uma página web simples
 </p>
 
 <p align="center">
+Veja o resultado [nesse link](https://rafaverde.github.io/4-html-css-rocketsct/).
+</p>
+
+<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
